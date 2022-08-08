@@ -1,0 +1,10 @@
+<resources>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="knowledge">Знания</string>
+    <string name="note_frequencies">Частоты нот</string>
+    <string name="circle_of_fifths">Квинтовый круг</string>
+    <string name="about">О приложении</string>
+    <string name="settings">Настройки</string>
+    <string name="scales">Гаммы</string>
+</resources>

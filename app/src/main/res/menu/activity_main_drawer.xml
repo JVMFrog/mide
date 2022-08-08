@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item android:title="@string/knowledge">
+        <menu>
+            <item
+                android:id="@+id/nav_note_frequencies"
+                android:icon="@drawable/outline_music_note_black_24dp"
+                android:title="@string/note_frequencies" />
+            <item
+                android:id="@+id/nav_circle_of_fifths"
+                android:icon="@drawable/outline_circle_black_24dp"
+                android:title="@string/circle_of_fifths" />
+            <item
+                android:id="@+id/nav_slideshow"
+                android:icon="@drawable/outline_piano_black_24dp"
+                android:title="@string/scales" />
+        </menu>
+    </item>
+    <group>
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/outline_settings_indigo_400_24dp"
+            android:title="@string/settings" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/outline_info_indigo_400_24dp"
+            android:title="@string/about" />
+    </group>
+</menu>

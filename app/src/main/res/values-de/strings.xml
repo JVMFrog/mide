@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="knowledge">Wissen</string>
+    <string name="note_frequencies">Ton Frequenzen</string>
+    <string name="circle_of_fifths">Quintenzirkel</string>
+    <string name="about">Über die App</string>
+    <string name="settings">Einstellungen</string>
+    <string name="scales">Tonleiter</string>
+</resources>

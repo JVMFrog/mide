@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name" translatable="false">MIDE</string>
+    <!-- Strings used for fragments for navigation -->
+
     <string name="knowledge">Knowledge</string>
     <string name="note_frequencies">Note frequencies</string>
     <string name="circle_of_fifths">Circle of fifths</string>
     <string name="about">About</string>
     <string name="settings">Settings</string>
     <string name="scales">Scales</string>
-
 </resources>
